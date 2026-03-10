@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|c:\\users\\frank\\documents\\unity\\my projects\\first movement thing\\assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\scripts\\playerlocomotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerlocomotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\scripts\\posturebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\posturebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\itempickupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\itempickupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\scripts\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\scripts\\itemslotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemslotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\scripts\\boss1manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boss1manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\scripts\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\worldutilitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\worldutilitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\scripts\\attackandweaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackandweaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\scripts\\animatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animatormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\scripts\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\scripts\\save\\datapersistencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\save\\datapersistencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\scripts\\resetbool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resetbool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\scripts\\save\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ED9B1-734D-8293-AAFA-43345B0951F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\save\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C018D1E-C942-55DF-2306-D21D5877245C}|Assembly-CSharp-Editor.csproj|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\assets\\tutorialinfo\\scripts\\editor\\readmeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C018D1E-C942-55DF-2306-D21D5877245C}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\tutorialinfo\\scripts\\editor\\readmeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\UIDoc.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UIDoc.uxml||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttackAndWeaponManager.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\AttackAndWeaponManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackAndWeaponManager.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\AttackAndWeaponManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackAndWeaponManager.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:35:51.428Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputManager.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\InputManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputManager.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAD4v/wAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:36:45.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1a7f2c3-8d4b-42e6-9f75-2a3b6c8e9d40}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemPickUpManager.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\ItemPickUpManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ItemPickUpManager.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\ItemPickUpManager.cs",
+              "RelativeToolTip": "Assets\\ItemPickUpManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T00:22:25.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CharacterManager.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\CharacterManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterManager.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\CharacterManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterManager.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwDYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T01:35:22.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Boss1Manager.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\Boss1Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boss1Manager.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\Boss1Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boss1Manager.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAYwHEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T01:35:13.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerLocomotion.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\PlayerLocomotion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerLocomotion.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\PlayerLocomotion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerLocomotion.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwGYAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T00:10:45.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataPersistenceManager.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\Save\\DataPersistenceManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Save\\DataPersistenceManager.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\Save\\DataPersistenceManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Save\\DataPersistenceManager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAewEUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:58:23.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResetBool.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\ResetBool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResetBool.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\ResetBool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResetBool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:57:13.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerManager.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAApwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:56:10.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventoryManager.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwGwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:14:24.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostureBar.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\PostureBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PostureBar.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\PostureBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PostureBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:23:57.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraManager.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:44:02.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnimatorManager.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\AnimatorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimatorManager.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\AnimatorManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimatorManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:43:56.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReadmeEditor.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "RelativeToolTip": "Assets\\TutorialInfo\\Scripts\\Editor\\ReadmeEditor.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwFkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:37:22.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UIDoc.uxml",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\UIDoc.uxml",
+              "RelativeDocumentMoniker": "Assets\\UIDoc.uxml",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\UIDoc.uxml",
+              "RelativeToolTip": "Assets\\UIDoc.uxml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-02-21T01:34:31.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorldUtilityManager.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\WorldUtilityManager.cs",
+              "RelativeDocumentMoniker": "Assets\\WorldUtilityManager.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\WorldUtilityManager.cs",
+              "RelativeToolTip": "Assets\\WorldUtilityManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T01:34:28.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemManager.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\ItemManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemManager.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\ItemManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:41:13.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\Save\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Save\\GameData.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\Save\\GameData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Save\\GameData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:26:03.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemSlotManager.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\ItemSlotManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemSlotManager.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\Unity\\My Projects\\First Movement thing\\Assets\\Scripts\\ItemSlotManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemSlotManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T00:25:49.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

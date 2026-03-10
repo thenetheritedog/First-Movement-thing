@@ -1,0 +1,24 @@
+using UnityEngine;
+
+public class ResetBool : StateMachineBehaviour
+{
+    public string isInteractingBool;
+    public bool isInteractingStatus;
+
+    public string isUsingRootMotionBool;
+    public bool isUsingRootMotionStatus;
+
+    public string parryingStatus;
+
+    
+    // OnStateEnter is called when a transition starts and the state machine starts to evaluate this state
+    override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
+    {
+        animator.SetBool(isInteractingBool, isInteractingStatus);
+        animator.SetBool(isUsingRootMotionBool, isUsingRootMotionStatus);
+        animator.SetFloat(parryingStatus, 1);
+    }
+    
+
+    
+}
