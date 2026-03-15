@@ -1,4 +1,5 @@
 using System;
+using Unity.Mathematics;
 using UnityEngine;
 
 public class PlayerLocomotion : MonoBehaviour {
@@ -61,6 +62,7 @@ public class PlayerLocomotion : MonoBehaviour {
 
     private void HandleMovement()
     {
+        Vector3 oldMoveDirection = Vector3.zero;
         if (playerManager.playerAttackAndWeaponManager.isLockedOn && !isSprinting)
         {
             moveDirection = cameraObject.forward * (inputManager.verticalInput);
@@ -70,8 +72,8 @@ public class PlayerLocomotion : MonoBehaviour {
         }
         else
         {
-            moveDirection = transform.forward * Mathf.Abs(inputManager.verticalInput);
-            moveDirection += transform.forward * Mathf.Abs(inputManager.horizontalInput);
+            moveDirection = transform.forward * Mathf.Abs(inputManager.verticalInput + inputManager.horizontalInput);
+            oldMoveDirection = transform.forward * playerRigidbody.linearVelocity.magnitude;
             moveDirection.Normalize();
             moveDirection.y = 0;
         }
@@ -99,8 +101,8 @@ public class PlayerLocomotion : MonoBehaviour {
         
 
         Vector3 movementVelocity = moveDirection;
-        if (movementVelocity.magnitude > playerRigidbody.linearVelocity.magnitude)
-            playerRigidbody.linearVelocity = Vector3.Lerp(playerRigidbody.linearVelocity, movementVelocity, Time.deltaTime);
+        if (movementVelocity.magnitude > oldMoveDirection.magnitude)
+            playerRigidbody.linearVelocity = Vector3.Lerp(oldMoveDirection, movementVelocity, Time.deltaTime);
         else
             playerRigidbody.linearVelocity = movementVelocity;
     }
@@ -138,10 +140,12 @@ public class PlayerLocomotion : MonoBehaviour {
             }
             else
             {
-                Quaternion playerRotation = Quaternion.Slerp
-                (transform.rotation, targetRotation, rotationSpeed/playerRigidbody.linearVelocity.magnitude * Time.deltaTime);
-
-                transform.rotation = playerRotation;
+                float directionDifference = Mathf.DeltaAngle(transform.rotation.eulerAngles.y, targetRotation.eulerAngles.y);
+                directionDifference = Mathf.Clamp(directionDifference, -rotationSpeed/playerRigidbody.linearVelocity.magnitude * Time.deltaTime, rotationSpeed/playerRigidbody.linearVelocity.magnitude * Time.deltaTime);
+                // the extra is incase the magnitude of the linear Velocity is smaller
+                directionDifference = Mathf.Clamp(directionDifference, -rotationSpeed * Time.deltaTime, rotationSpeed * Time.deltaTime);
+                Debug.Log(directionDifference);
+                transform.rotation = Quaternion.Euler(transform.rotation.eulerAngles.x, transform.rotation.eulerAngles.y + directionDifference, transform.rotation.eulerAngles.z);
             }
         }
     }

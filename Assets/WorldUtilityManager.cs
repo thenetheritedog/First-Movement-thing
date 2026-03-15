@@ -7,6 +7,7 @@ public class WorldUtilityManager : MonoBehaviour
     [Header("Layers")]
     [SerializeField] LayerMask characterLayers;
     [SerializeField] LayerMask enviroLayers;
+    [SerializeField] LayerMask itemLayers;
 
     private void Awake()
     {
@@ -21,4 +22,5 @@ public class WorldUtilityManager : MonoBehaviour
     }
     public LayerMask GetCharacterLayers() { return characterLayers; }
     public LayerMask GetEnviroLayers() { return enviroLayers; }
+    public LayerMask GetItemLayers() { return itemLayers; }
 }

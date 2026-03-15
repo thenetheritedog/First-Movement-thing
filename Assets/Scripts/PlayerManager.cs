@@ -55,6 +55,7 @@ public class PlayerManager : MonoBehaviour, IDataPersistence
     private void Update()
     {
         inputManager.HandleAllInputs();
+        inventoryManager.CheckForPickingUpItems();
     }
 
     private void FixedUpdate()

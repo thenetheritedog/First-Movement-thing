@@ -12,6 +12,7 @@ public class InventoryManager : MonoBehaviour, IDataPersistence
     [SerializeField] private string id;
     private string idOfItems;
     public ItemSlotManager lastItem;
+    public GameObject itemOver = null;
     [ContextMenu("Generate guid for id")]
     private void GenerateGuid()
     {
@@ -105,6 +106,30 @@ public class InventoryManager : MonoBehaviour, IDataPersistence
                 effects[j] = itemValuesUncombined[j + 2];
             }
             AddItemToInventory(itemValuesUncombined[0], int.Parse(itemValuesUncombined[1]), effects);
+        }
+    }
+    public void CheckForPickingUpItems()
+    {
+        float shortDistance = Mathf.Infinity;
+        Collider[] colliders = Physics.OverlapSphere(playerManager.transform.position, 2f, WorldUtilityManager.Instance.GetItemLayers());
+        itemOver = null;
+        if (colliders.Length == 0)
+            return;
+        for (int i = 0; i < colliders.Length; i++)
+        {
+            GameObject item = colliders[i].gameObject;
+            float distanceFromTarget = Vector3.Distance(playerManager.transform.position, item.transform.position);
+
+            RaycastHit hit;
+            if (Physics.Linecast(playerManager.playerAttackAndWeaponManager.lockOnTransform.position, item.transform.position, out hit, WorldUtilityManager.Instance.GetEnviroLayers()))
+            {
+                continue;
+            }
+            if (distanceFromTarget < shortDistance)
+            {
+                itemOver = item;
+                shortDistance = distanceFromTarget;
+            }
         }
     }
 }
